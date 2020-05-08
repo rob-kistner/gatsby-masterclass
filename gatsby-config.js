@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Masterclass`,
+    title: `Gatsby Garb`,
     description: `Udemy class by Reed Barger`,
     author: `@rob-kistner`,
   },
